@@ -9,6 +9,8 @@ public class Test {
 
 		
 		String aa = "1231231";
+		
+		System.out.println("qinaide");
 
 		String test = "123534adsfasdfdasf6";
 	}
