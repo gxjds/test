@@ -12,6 +12,7 @@ public class Test {
 		
 		System.out.println("qinaide");
 
+                String bb = "nizaiganma"; 
 		String test = "123534adsfasdfdasf6";
 	}
 
