@@ -6,7 +6,7 @@ public class Test {
 
 		System.out.println("hello word nihaoma gaxing");
 		
-		String test = "1235346";
+		String test = "123534adsfasdfdasf6";
 	}
 
 }
